@@ -1,1 +1,2 @@
 # uread
+Our app company is a dynamic team of students passionate about empowering people to enhance their reading skills. We're on a mission to make learning enjoyable and accessible to all. With a focus on user-friendly design, interactive content, and continuous improvement, we strive to create innovative reading apps that cater to various age groups and skill levels. Our collaborative spirit and commitment to quality ensure that our apps provide engaging and effective reading experiences for users, helping them embark on a journey to become confident and avid readers.
